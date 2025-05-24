@@ -1,0 +1,7 @@
+# Core functionality - review required!
+/src/app.py                   @paingsoeko
+/src/backend/database.py      @paingsoeko
+/src/backend/routers/auth.py  @paingsoeko
+
+# Frontend (future refactor)
+/src/static/                  @paingsoeko
